@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(["jaipur","Raipur","Bhagalpur"])})();
